@@ -1,5 +1,5 @@
 # Данные для создания нового заказа
-zakaz_body = {
+order_body = {
     "firstName": "Коля",
     "lastName": "Картошкин",
     "address": "Питер1",
